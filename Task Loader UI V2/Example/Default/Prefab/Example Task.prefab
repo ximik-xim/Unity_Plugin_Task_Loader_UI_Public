@@ -58,7 +58,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aa4ceee653952924a88abab6ff6728bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _listContext: []
   _data: {fileID: 2168012934538679709}
 --- !u!1 &2079653567711255398
 GameObject:
@@ -225,7 +224,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3b45cf6fa64ffec40a12407b3a7a9b5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _listContext: []
   _data: {fileID: 9140189279161463983}
 --- !u!1 &5223780193855687731
 GameObject:

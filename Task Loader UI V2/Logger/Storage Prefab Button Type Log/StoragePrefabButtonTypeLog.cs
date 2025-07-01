@@ -34,6 +34,11 @@ public class StoragePrefabButtonTypeLog : ScriptableObject, IInitScripObj
                     Awake();
                 }
             }
+            else
+            {
+                //Нужен, что бы сбросить переменную при запуске проекта(т.к при выходе(закрытии) из проекта, переменная не факт что будет сброшена)
+                _isInit = false;
+            }
 #endif
         }
         
