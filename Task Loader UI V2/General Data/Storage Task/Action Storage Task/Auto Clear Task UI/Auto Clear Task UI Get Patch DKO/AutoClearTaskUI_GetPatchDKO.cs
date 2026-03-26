@@ -9,7 +9,7 @@ using UnityEngine;
 /// В этой реализации ссылки на StorageTaskLoader и StorageDKO_TaskLoaderUI
 /// буду получать через DKO
 /// </summary>
-public class AutoClearTaskUI_DataGetPatchDKO : MonoBehaviour
+public class AutoClearTaskUI_GetPatchDKO : MonoBehaviour
 {
     [SerializeField]
     private GetDKOPatch _getDkoPatchStorageTaskLoader;

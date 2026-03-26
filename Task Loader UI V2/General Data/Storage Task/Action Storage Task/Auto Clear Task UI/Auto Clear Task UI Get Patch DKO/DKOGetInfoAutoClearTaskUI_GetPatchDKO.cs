@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public class DKOGetInfGetPatchDKOAutoClearTaskUI : DKOGetInfoT<AutoClearTaskUI_DataGetPatchDKO>
+public class DKOGetInfoAutoClearTaskUI_GetPatchDKO : DKOGetInfoT<AutoClearTaskUI_GetPatchDKO>
 {
     private void Awake()
     {
